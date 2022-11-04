@@ -11,9 +11,6 @@ def getAge():
         ageV = "old"
     else:
         ageV = "young"
-    
-    
-    
     return ageV
     return age1
 
